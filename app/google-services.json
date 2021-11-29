@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725908384716",
+    "project_id": "practicecharapp",
+    "storage_bucket": "practicecharapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725908384716:android:ad8e806d6d7000ab144b69",
+        "android_client_info": {
+          "package_name": "com.daleondeveloper.practicechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725908384716-c66qtskfsbr5on3b7qlrvbh38hoiilu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daleondeveloper.practicechatapp",
+            "certificate_hash": "a97000e2bca881b75ec804b65220823471fbd2ff"
+          }
+        },
+        {
+          "client_id": "725908384716-3pj270hjf2a1579173n1u3ochesbs8e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16R_eyp_bkEeTmmooPKQRrkwoAewuVV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725908384716-3pj270hjf2a1579173n1u3ochesbs8e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
